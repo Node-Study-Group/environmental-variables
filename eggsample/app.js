@@ -1,0 +1,1 @@
+console.log(process.env.S3_KEY + " IS TOTES SECRET")
